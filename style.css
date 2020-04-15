@@ -1,5 +1,6 @@
 .foto{
     background-image: url("Fotos/Fundo.jpg");
+    background-repeat: no-repeat;
     margin: 0;
     border: 0;
 }
